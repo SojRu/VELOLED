@@ -1,0 +1,48 @@
+PCAD Importer Log
+Project : connectors.LibPkg
+
+Section : E:\Dropbox\PCADlibs\connectors.lib
+    Section : PCB Library - connectors.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 2PIN_CONNECTOR On Line 161
+            Warning - 1 : Skipping Token 2PIN_POWER On Line 186
+            Warning - 1 : Skipping Token SPI_CONNECTOR On Line 211
+            Warning - 1 : Skipping Token attachedSymbol On Line 279
+            Warning - 1 : Skipping Token attachedSymbol On Line 299
+            Warning - 1 : Skipping Token attachedSymbol On Line 323
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - connectors.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token viaStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 81
+            Warning - 1 : Skipping Token layerContents On Line 85
+            Warning - 1 : Skipping Token multiLayer On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token multiLayer On Line 121
+            Warning - 1 : Skipping Token layerContents On Line 125
+            Warning - 1 : Skipping Token multiLayer On Line 139
+            Warning - 1 : Skipping Token layerContents On Line 151
+            Warning - 1 : Skipping Token defaultPinDes On Line 169
+            Warning - 1 : Skipping Token defaultPinDes On Line 177
+            Warning - 1 : Skipping Token defaultPinDes On Line 193
+            Warning - 1 : Skipping Token defaultPinDes On Line 200
+            Warning - 1 : Skipping Token defaultPinDes On Line 218
+            Warning - 1 : Skipping Token defaultPinDes On Line 225
+            Warning - 1 : Skipping Token defaultPinDes On Line 232
+            Warning - 1 : Skipping Token defaultPinDes On Line 239
+            Warning - 1 : Skipping Token defaultPinDes On Line 246
+            Warning - 1 : Skipping Token defaultPinDes On Line 253
+        EndSection
+
+        Section : Generating SCH Library - connectors.SchLib
+        EndSection
+    EndSection
+EndSection

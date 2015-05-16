@@ -1,0 +1,41 @@
+PCAD Importer Log
+Project : accelerometer.LibPkg
+
+Section : E:\Dropbox\PCADlibs\accelerometer.lib
+    Section : PCB Library - accelerometer.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MMA7455L On Line 101
+            Warning - 1 : Skipping Token attachedSymbol On Line 245
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - accelerometer.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 34
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token defaultPinDes On Line 109
+            Warning - 1 : Skipping Token defaultPinDes On Line 117
+            Warning - 1 : Skipping Token defaultPinDes On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 141
+            Warning - 1 : Skipping Token defaultPinDes On Line 149
+            Warning - 1 : Skipping Token defaultPinDes On Line 157
+            Warning - 1 : Skipping Token defaultPinDes On Line 165
+            Warning - 1 : Skipping Token defaultPinDes On Line 173
+            Warning - 1 : Skipping Token defaultPinDes On Line 181
+            Warning - 1 : Skipping Token defaultPinDes On Line 189
+            Warning - 1 : Skipping Token defaultPinDes On Line 197
+            Warning - 1 : Skipping Token defaultPinDes On Line 205
+            Warning - 1 : Skipping Token defaultPinDes On Line 213
+        EndSection
+
+        Section : Generating SCH Library - accelerometer.SchLib
+        EndSection
+    EndSection
+EndSection

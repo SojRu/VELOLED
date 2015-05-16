@@ -1,0 +1,59 @@
+PCAD Importer Log
+Project : power.LibPkg
+
+Section : E:\Dropbox\PCADlibs\power.lib
+    Section : PCB Library - power.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token +15VD On Line 91
+            Warning - 1 : Skipping Token +3.3VD On Line 106
+            Warning - 1 : Skipping Token +5VD On Line 121
+            Warning - 1 : Skipping Token +9VD On Line 136
+            Warning - 1 : Skipping Token -15V On Line 151
+            Warning - 1 : Skipping Token BATTERY On Line 166
+            Warning - 1 : Skipping Token GND On Line 194
+            Warning - 1 : Skipping Token VCC On Line 210
+            Warning - 1 : Skipping Token attachedSymbol On Line 236
+            Warning - 1 : Skipping Token attachedSymbol On Line 249
+            Warning - 1 : Skipping Token attachedSymbol On Line 262
+            Warning - 1 : Skipping Token attachedSymbol On Line 275
+            Warning - 1 : Skipping Token attachedSymbol On Line 288
+            Warning - 1 : Skipping Token attachedSymbol On Line 301
+            Warning - 1 : Skipping Token attachedSymbol On Line 314
+            Warning - 1 : Skipping Token attachedSymbol On Line 334
+        EndSection
+
+        Section : Import Messages
+            Warning : Component +15VD does not have PCB footprint definition and will be skipped
+            Warning : Component +3.3VD does not have PCB footprint definition and will be skipped
+            Warning : Component +5VD does not have PCB footprint definition and will be skipped
+            Warning : Component +9VD does not have PCB footprint definition and will be skipped
+            Warning : Component -15V does not have PCB footprint definition and will be skipped
+            Warning : Component GND does not have PCB footprint definition and will be skipped
+            Warning - 0 : PCAD Pattern Graphics [SE_3547_BATT][Primary] associated with PCAD Component [SE_3547_BATT] has been renamed to PCB FootPrint [SE_3547_BATT_SE_3547_BATT(Primary)].
+            Warning : Component VCC does not have PCB footprint definition and will be skipped
+        EndSection
+    EndSection
+
+    Section : SCH Library - power.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 34
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 76
+            Warning - 1 : Skipping Token defaultPinDes On Line 99
+            Warning - 1 : Skipping Token defaultPinDes On Line 114
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 144
+            Warning - 1 : Skipping Token defaultPinDes On Line 159
+            Warning - 1 : Skipping Token defaultPinDes On Line 174
+            Warning - 1 : Skipping Token defaultPinDes On Line 182
+            Warning - 1 : Skipping Token defaultPinDes On Line 202
+            Warning - 1 : Skipping Token defaultPinDes On Line 218
+        EndSection
+
+        Section : Generating SCH Library - power.SchLib
+            Warning - 0 : PCAD Pattern Graphics [SE_3547_BATT][Primary] associated with PCAD Component [SE_3547_BATT] has been renamed to PCB FootPrint [SE_3547_BATT_SE_3547_BATT(Primary)].
+        EndSection
+    EndSection
+EndSection

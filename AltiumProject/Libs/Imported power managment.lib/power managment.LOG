@@ -1,0 +1,70 @@
+PCAD Importer Log
+Project : power managment.LibPkg
+
+Section : E:\Dropbox\PCADlibs\power managment.lib
+    Section : PCB Library - power managment.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token BD4731 On Line 215
+            Warning - 1 : Skipping Token LM1117 On Line 264
+            Warning - 1 : Skipping Token MAX1811 On Line 305
+            Warning - 1 : Skipping Token MAX8815A On Line 378
+            Warning - 1 : Skipping Token attachedSymbol On Line 481
+            Warning - 1 : Skipping Token attachedSymbol On Line 506
+            Warning - 1 : Skipping Token attachedSymbol On Line 534
+            Warning - 1 : Skipping Token attachedSymbol On Line 568
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - power managment.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 56
+            Warning - 1 : Skipping Token padStyleDef On Line 67
+            Warning - 1 : Skipping Token viaStyleDef On Line 78
+            Warning - 1 : Skipping Token multiLayer On Line 116
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token multiLayer On Line 147
+            Warning - 1 : Skipping Token layerContents On Line 157
+            Warning - 1 : Skipping Token multiLayer On Line 176
+            Warning - 1 : Skipping Token layerContents On Line 183
+            Warning - 1 : Skipping Token multiLayer On Line 199
+            Warning - 1 : Skipping Token layerContents On Line 205
+            Warning - 1 : Skipping Token defaultPinDes On Line 223
+            Warning - 1 : Skipping Token defaultPinDes On Line 231
+            Warning - 1 : Skipping Token defaultPinDes On Line 239
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 255
+            Warning - 1 : Skipping Token defaultPinDes On Line 272
+            Warning - 1 : Skipping Token defaultPinDes On Line 280
+            Warning - 1 : Skipping Token defaultPinDes On Line 288
+            Warning - 1 : Skipping Token defaultPinDes On Line 296
+            Warning - 1 : Skipping Token defaultPinDes On Line 313
+            Warning - 1 : Skipping Token defaultPinDes On Line 321
+            Warning - 1 : Skipping Token defaultPinDes On Line 329
+            Warning - 1 : Skipping Token defaultPinDes On Line 337
+            Warning - 1 : Skipping Token defaultPinDes On Line 345
+            Warning - 1 : Skipping Token defaultPinDes On Line 353
+            Warning - 1 : Skipping Token defaultPinDes On Line 361
+            Warning - 1 : Skipping Token defaultPinDes On Line 369
+            Warning - 1 : Skipping Token defaultPinDes On Line 386
+            Warning - 1 : Skipping Token defaultPinDes On Line 394
+            Warning - 1 : Skipping Token defaultPinDes On Line 402
+            Warning - 1 : Skipping Token defaultPinDes On Line 410
+            Warning - 1 : Skipping Token defaultPinDes On Line 418
+            Warning - 1 : Skipping Token defaultPinDes On Line 426
+            Warning - 1 : Skipping Token defaultPinDes On Line 434
+            Warning - 1 : Skipping Token defaultPinDes On Line 442
+            Warning - 1 : Skipping Token defaultPinDes On Line 450
+            Warning - 1 : Skipping Token defaultPinDes On Line 458
+        EndSection
+
+        Section : Generating SCH Library - power managment.SchLib
+        EndSection
+    EndSection
+EndSection

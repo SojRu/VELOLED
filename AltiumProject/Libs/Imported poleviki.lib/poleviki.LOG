@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : poleviki.LibPkg
+
+Section : E:\Dropbox\PCADlibs\poleviki.lib
+    Section : PCB Library - poleviki.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token N_CHANAL On Line 87
+            Warning - 1 : Skipping Token SD_CHANAL On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 195
+            Warning - 1 : Skipping Token attachedSymbol On Line 217
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [MICRO3][Primary] associated with PCAD Component [IRLML6344] has been renamed to PCB FootPrint [MICRO3_IRLML6344(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [MICRO3][Primary] associated with PCAD Component [IRLML6402] has been renamed to PCB FootPrint [MICRO3_IRLML6402(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - poleviki.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 34
+            Warning - 1 : Skipping Token multiLayer On Line 72
+            Warning - 1 : Skipping Token layerContents On Line 77
+            Warning - 1 : Skipping Token defaultPinDes On Line 94
+            Warning - 1 : Skipping Token defaultPinDes On Line 101
+            Warning - 1 : Skipping Token defaultPinDes On Line 108
+            Warning - 1 : Skipping Token defaultPinDes On Line 142
+            Warning - 1 : Skipping Token defaultPinDes On Line 149
+            Warning - 1 : Skipping Token defaultPinDes On Line 156
+        EndSection
+
+        Section : Generating SCH Library - poleviki.SchLib
+            Warning - 0 : PCAD Pattern Graphics [MICRO3][Primary] associated with PCAD Component [IRLML6344] has been renamed to PCB FootPrint [MICRO3_IRLML6344(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [MICRO3][Primary] associated with PCAD Component [IRLML6402] has been renamed to PCB FootPrint [MICRO3_IRLML6402(Primary)].
+        EndSection
+    EndSection
+EndSection

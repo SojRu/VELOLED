@@ -1,0 +1,63 @@
+PCAD Importer Log
+Project : veloled.LibPkg
+
+Section : E:\Dropbox\PCADlibs\veloled.lib
+    Section : PCB Library - veloled.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 74HC595 On Line 156
+            Warning - 1 : Skipping Token MMA7455L On Line 293
+            Warning - 1 : Skipping Token RSTR_0603_SMD On Line 414
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - veloled.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token viaStyleDef On Line 45
+            Warning - 1 : Skipping Token multiLayer On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token multiLayer On Line 125
+            Warning - 1 : Skipping Token layerContents On Line 143
+            Warning - 1 : Skipping Token defaultPinDes On Line 164
+            Warning - 1 : Skipping Token defaultPinDes On Line 172
+            Warning - 1 : Skipping Token defaultPinDes On Line 180
+            Warning - 1 : Skipping Token defaultPinDes On Line 188
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 204
+            Warning - 1 : Skipping Token defaultPinDes On Line 212
+            Warning - 1 : Skipping Token defaultPinDes On Line 220
+            Warning - 1 : Skipping Token defaultPinDes On Line 228
+            Warning - 1 : Skipping Token defaultPinDes On Line 236
+            Warning - 1 : Skipping Token defaultPinDes On Line 244
+            Warning - 1 : Skipping Token defaultPinDes On Line 252
+            Warning - 1 : Skipping Token defaultPinDes On Line 260
+            Warning - 1 : Skipping Token defaultPinDes On Line 268
+            Warning - 1 : Skipping Token defaultPinDes On Line 276
+            Warning - 1 : Skipping Token defaultPinDes On Line 284
+            Warning - 1 : Skipping Token defaultPinDes On Line 301
+            Warning - 1 : Skipping Token defaultPinDes On Line 309
+            Warning - 1 : Skipping Token defaultPinDes On Line 317
+            Warning - 1 : Skipping Token defaultPinDes On Line 325
+            Warning - 1 : Skipping Token defaultPinDes On Line 333
+            Warning - 1 : Skipping Token defaultPinDes On Line 341
+            Warning - 1 : Skipping Token defaultPinDes On Line 349
+            Warning - 1 : Skipping Token defaultPinDes On Line 357
+            Warning - 1 : Skipping Token defaultPinDes On Line 365
+            Warning - 1 : Skipping Token defaultPinDes On Line 373
+            Warning - 1 : Skipping Token defaultPinDes On Line 381
+            Warning - 1 : Skipping Token defaultPinDes On Line 389
+            Warning - 1 : Skipping Token defaultPinDes On Line 397
+            Warning - 1 : Skipping Token defaultPinDes On Line 405
+            Warning - 1 : Skipping Token defaultPinDes On Line 422
+            Warning - 1 : Skipping Token defaultPinDes On Line 430
+        EndSection
+
+        Section : Generating SCH Library - veloled.SchLib
+        EndSection
+    EndSection
+EndSection

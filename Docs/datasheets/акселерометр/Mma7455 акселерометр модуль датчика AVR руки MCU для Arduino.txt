@@ -1,0 +1,5 @@
+Brand New High Quality
+Onboard MMA7455 digital output (I2C/SPI), low power, compact capacitive micromachined accelerometer;
+Support 5V/3.3V input , onboard RT9161, lower pressure drop than the 1117, faster load the appropriate speed, ideal for noisy power environment;
+Common pin, pin standard 100mil (2.54mm), easy for the matrix board;
+PCB size: 26 (mm) x14 (mm)

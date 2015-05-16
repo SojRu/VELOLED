@@ -1,0 +1,46 @@
+PCAD Importer Log
+Project : optics.LibPkg
+
+Section : E:\Dropbox\PCADlibs\optics.lib
+    Section : PCB Library - optics.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token BD4731 On Line 119
+            Warning - 1 : Skipping Token LED On Line 168
+            Warning - 1 : Skipping Token SMD_RGB_5050_LED On Line 200
+            Warning - 1 : Skipping Token attachedSymbol On Line 279
+            Warning - 1 : Skipping Token attachedSymbol On Line 303
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - optics.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token viaStyleDef On Line 44
+            Warning - 1 : Skipping Token multiLayer On Line 82
+            Warning - 1 : Skipping Token layerContents On Line 86
+            Warning - 1 : Skipping Token multiLayer On Line 99
+            Warning - 1 : Skipping Token layerContents On Line 107
+            Warning - 1 : Skipping Token defaultPinDes On Line 127
+            Warning - 1 : Skipping Token defaultPinDes On Line 135
+            Warning - 1 : Skipping Token defaultPinDes On Line 143
+            Warning - 1 : Skipping Token defaultPinDes On Line 151
+            Warning - 1 : Skipping Token defaultPinDes On Line 159
+            Warning - 1 : Skipping Token defaultPinDes On Line 176
+            Warning - 1 : Skipping Token defaultPinDes On Line 184
+            Warning - 1 : Skipping Token defaultPinDes On Line 208
+            Warning - 1 : Skipping Token defaultPinDes On Line 216
+            Warning - 1 : Skipping Token defaultPinDes On Line 224
+            Warning - 1 : Skipping Token defaultPinDes On Line 232
+            Warning - 1 : Skipping Token defaultPinDes On Line 240
+            Warning - 1 : Skipping Token defaultPinDes On Line 248
+        EndSection
+
+        Section : Generating SCH Library - optics.SchLib
+        EndSection
+    EndSection
+EndSection

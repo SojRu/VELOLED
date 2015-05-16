@@ -1,0 +1,14 @@
+Item Description:
+ 
+Module Properties: non-isolated boost
+Rectification: non-synchronous rectification
+Input voltage: 2.5V-6V
+Output voltage: 4V-12V (adjustable)
+Output Current: 1000mA (Max)
+Conversion efficiency: 92% (the highest)
+Switching frequency: 1MHz
+Output ripple: 20mV (max)
+Load Regulation: ± 0.5%
+Voltage Regulation: ± 2.5%
+Operating Temperature: -40 ? to +85 ?
+Size: 28 * 19 * 8 (L * W * H) (mm)

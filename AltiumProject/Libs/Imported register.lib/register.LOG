@@ -1,0 +1,43 @@
+PCAD Importer Log
+Project : register.LibPkg
+
+Section : E:\Dropbox\PCADlibs\register.lib
+    Section : PCB Library - register.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 74HC595 On Line 114
+            Warning - 1 : Skipping Token attachedSymbol On Line 276
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - register.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 34
+            Warning - 1 : Skipping Token multiLayer On Line 83
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token defaultPinDes On Line 122
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 138
+            Warning - 1 : Skipping Token defaultPinDes On Line 146
+            Warning - 1 : Skipping Token defaultPinDes On Line 154
+            Warning - 1 : Skipping Token defaultPinDes On Line 162
+            Warning - 1 : Skipping Token defaultPinDes On Line 170
+            Warning - 1 : Skipping Token defaultPinDes On Line 178
+            Warning - 1 : Skipping Token defaultPinDes On Line 186
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 202
+            Warning - 1 : Skipping Token defaultPinDes On Line 210
+            Warning - 1 : Skipping Token defaultPinDes On Line 218
+            Warning - 1 : Skipping Token defaultPinDes On Line 226
+            Warning - 1 : Skipping Token defaultPinDes On Line 234
+            Warning - 1 : Skipping Token defaultPinDes On Line 242
+        EndSection
+
+        Section : Generating SCH Library - register.SchLib
+        EndSection
+    EndSection
+EndSection

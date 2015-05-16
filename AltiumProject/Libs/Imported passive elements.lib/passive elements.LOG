@@ -1,0 +1,50 @@
+PCAD Importer Log
+Project : passive elements.LibPkg
+
+Section : E:\Dropbox\PCADlibs\passive elements.lib
+    Section : PCB Library - passive elements.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CPCTR_0603_SMD On Line 188
+            Warning - 1 : Skipping Token CPCTR_POLAR On Line 214
+            Warning - 1 : Skipping Token RSTR_0603_SMD On Line 242
+            Warning - 1 : Skipping Token attachedSymbol On Line 281
+            Warning - 1 : Skipping Token attachedSymbol On Line 301
+            Warning - 1 : Skipping Token attachedSymbol On Line 321
+            Warning - 1 : Skipping Token attachedSymbol On Line 341
+            Warning - 1 : Skipping Token attachedSymbol On Line 361
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [SMD_3216_CPCTR_TNTLM][Primary] associated with PCAD Component [SMD_3216_TNTLM_CPCTR] has been renamed to PCB FootPrint [SMD_3216_CPCTR_TNTLM_SMD_3216_TNTLM_CPCTR(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - passive elements.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 54
+            Warning - 1 : Skipping Token viaStyleDef On Line 65
+            Warning - 1 : Skipping Token multiLayer On Line 114
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token multiLayer On Line 132
+            Warning - 1 : Skipping Token layerContents On Line 136
+            Warning - 1 : Skipping Token multiLayer On Line 154
+            Warning - 1 : Skipping Token layerContents On Line 158
+            Warning - 1 : Skipping Token multiLayer On Line 174
+            Warning - 1 : Skipping Token layerContents On Line 178
+            Warning - 1 : Skipping Token defaultPinDes On Line 196
+            Warning - 1 : Skipping Token defaultPinDes On Line 204
+            Warning - 1 : Skipping Token defaultPinDes On Line 222
+            Warning - 1 : Skipping Token defaultPinDes On Line 230
+            Warning - 1 : Skipping Token defaultPinDes On Line 250
+            Warning - 1 : Skipping Token defaultPinDes On Line 258
+        EndSection
+
+        Section : Generating SCH Library - passive elements.SchLib
+            Warning - 0 : PCAD Pattern Graphics [SMD_3216_CPCTR_TNTLM][Primary] associated with PCAD Component [SMD_3216_TNTLM_CPCTR] has been renamed to PCB FootPrint [SMD_3216_CPCTR_TNTLM_SMD_3216_TNTLM_CPCTR(Primary)].
+        EndSection
+    EndSection
+EndSection
